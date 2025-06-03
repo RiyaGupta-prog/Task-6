@@ -1,5 +1,5 @@
 # Task-6
-Task 6  AL &amp; ML Internship By Elevate Labs
+Task 6  AL & ML Internship By Elevate Labs
 
 Dataset : iris
 Tools, pandas,sklearn, matplotlib
